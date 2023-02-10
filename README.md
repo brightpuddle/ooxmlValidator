@@ -1,6 +1,6 @@
 # OOXML Validator
 
-CLI tool for validating OOXML documents. This is pretty much just a cut-and-paste from (this article)[https://learn.microsoft.com/en-us/office/open-xml/how-to-validate-a-word-processing-document].
+CLI tool for validating OOXML documents. This is pretty much just a cut-and-paste from [this article](https://learn.microsoft.com/en-us/office/open-xml/how-to-validate-a-word-processing-document).
 
 ## MacOS Quickstart
 
