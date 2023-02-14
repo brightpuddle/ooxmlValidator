@@ -37,5 +37,6 @@ static void ValidateWordDocument(string filepath)
 
 if (args.Length > 0)
 {
+    Console.WriteLine("Validating", args[0]);
     ValidateWordDocument(args[0]);
 }
